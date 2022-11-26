@@ -1,15 +1,4 @@
 <h3 align="center">MI PORTFOLIO</h3>
-<!-- TABLE OF CONTENTS -->
-<details>
-  <ol>
-      <ul>
-        <li><a href="#instalación">Instalación</a></li>
-      </ul>
-  </ol>
-</details>
-
-<!-- GETTING STARTED -->
-
 ### Instalación
 
 1. Clona el repositorio en tu local
