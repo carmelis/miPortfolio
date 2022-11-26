@@ -1,13 +1,6 @@
-# miPortfolio
-
-<a name="readme-top"></a>
-
 <h3 align="center">MI PORTFOLIO</h3>
-
-</div>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Contenido</summary>
   <ol>
       <ul>
         <li><a href="#instalación">Instalación</a></li>
