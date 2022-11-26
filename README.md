@@ -1,6 +1,6 @@
 <h1 align="center">MI PORTFOLIO</h1>
 
-<h3 align="center">iNSTALACIÓN</h3>
+<h3 align="center">Instalación</h3>
 
 1. Clona el repositorio en tu local
    ```sh
