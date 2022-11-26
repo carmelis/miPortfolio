@@ -1,5 +1,5 @@
 <h3 align="center">MI PORTFOLIO</h3>
-### Instalación
+## Instalación
 
 1. Clona el repositorio en tu local
    ```sh
